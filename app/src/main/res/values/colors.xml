@@ -1,0 +1,6 @@
+<resources>
+    <color name="background_color">#F5F5DC</color>
+    <color name="tytul_background">#A52A2A</color>
+    <color name="button_color">#D2691E</color>
+    <color name="text_white">#FFFFFF</color>
+</resources>

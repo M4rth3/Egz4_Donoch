@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Egz4_Donoch</string>
+    <string name="tytul">Gra w kości. Autor: Michał Donoch</string>
+    <string name="rzuc">RZUĆ KOŚĆMI</string>
+    <string name="wynik_gry">Wynik gry:</string>
+    <string name="resetuj_wynik">RESETUJ WYNIK</string>
+    <string name="wynik_tego_losowania">Wynik tego losowania:</string>
+</resources>
